@@ -1,0 +1,301 @@
+Task ID,Task Description,Deadline,Priority,Assigned User,User Workload,Past Task Behavior,Category,Status,Time Taken (hours),Days Remaining,User Current Load,Past Behavior Score,Task Complexity Score,Category Specialist Match,User Availability Flag
+TASK0001,Task description 1,2025-06-21,Medium,Eva,7,On-time,Development,Completed,6.99,24,7,0.8,0.9,0,1
+TASK0002,Task description 2,2025-06-07,Medium,Charlie,5,On-time,Design,Completed,5.72,10,7,0.8,0.6,1,1
+TASK0003,Task description 3,2025-06-13,Medium,Eva,6,Perfect,Design,In Progress,7.3,16,8,1.0,0.6,0,0
+TASK0004,Task description 4,2025-06-25,High,Alice,8,Perfect,Design,Completed,9.05,28,11,1.0,0.6,0,0
+TASK0005,Task description 5,2025-06-18,High,Alice,5,Perfect,Testing,Pending,5.53,21,5,1.0,0.7,0,1
+TASK0006,Task description 6,2025-06-26,Medium,David,9,On-time,Research,Pending,5.53,29,9,0.8,0.8,1,0
+TASK0007,Task description 7,2025-06-23,Medium,Alice,6,On-time,Documentation,In Progress,9.16,26,8,0.8,0.5,0,0
+TASK0008,Task description 8,2025-06-24,High,Charlie,5,Delayed,Testing,Pending,7.53,27,8,0.5,0.7,0,0
+TASK0009,Task description 9,2025-06-26,High,Bob,3,Perfect,Testing,Pending,5.06,29,3,1.0,0.7,1,1
+TASK0010,Task description 10,2025-05-31,Low,Alice,10,On-time,Development,Pending,7.09,3,10,0.8,0.9,1,0
+TASK0011,Task description 11,2025-06-25,High,Bob,8,On-time,Testing,Completed,5.07,28,9,0.8,0.7,1,0
+TASK0012,Task description 12,2025-06-04,Medium,Eva,1,On-time,Development,Pending,5.07,7,1,0.8,0.9,0,1
+TASK0013,Task description 13,2025-06-20,Low,Bob,1,Perfect,Development,Pending,6.48,23,2,1.0,0.9,0,1
+TASK0014,Task description 14,2025-06-03,Low,Eva,6,On-time,Development,Completed,2.17,6,7,0.8,0.9,0,1
+TASK0015,Task description 15,2025-06-13,Medium,Bob,4,Unreliable,Documentation,In Progress,2.55,16,7,0.3,0.5,0,1
+TASK0016,Task description 16,2025-06-10,Medium,David,6,On-time,Research,Pending,4.88,13,9,0.8,0.8,1,0
+TASK0017,Task description 17,2025-06-08,Low,Charlie,3,Unreliable,Documentation,Completed,3.97,11,4,0.3,0.5,0,1
+TASK0018,Task description 18,2025-06-21,Low,Eva,1,Delayed,Testing,Completed,6.63,24,4,0.5,0.7,0,1
+TASK0019,Task description 19,2025-06-18,Medium,Bob,6,Perfect,Testing,Completed,4.18,21,8,1.0,0.7,1,0
+TASK0020,Task description 20,2025-06-15,Medium,David,10,On-time,Documentation,Pending,3.18,18,10,0.8,0.5,0,0
+TASK0021,Task description 21,2025-06-18,High,Eva,10,On-time,Research,Completed,8.93,21,12,0.8,0.8,0,0
+TASK0022,Task description 22,2025-06-07,Medium,Eva,2,Delayed,Design,In Progress,5.55,10,4,0.5,0.6,0,1
+TASK0023,Task description 23,2025-06-07,Medium,Eva,10,On-time,Design,In Progress,6.14,10,13,0.8,0.6,0,0
+TASK0024,Task description 24,2025-06-13,Low,Charlie,9,On-time,Documentation,Completed,3.15,16,11,0.8,0.5,0,0
+TASK0025,Task description 25,2025-06-03,Low,Charlie,7,Delayed,Design,Completed,4.91,6,9,0.5,0.6,1,0
+TASK0026,Task description 26,2025-06-13,Medium,David,6,Perfect,Development,In Progress,6.22,16,7,1.0,0.9,0,1
+TASK0027,Task description 27,2025-06-16,Low,Eva,2,Perfect,Documentation,Completed,3.7,19,3,1.0,0.5,1,1
+TASK0028,Task description 28,2025-06-06,Medium,Alice,8,On-time,Documentation,Completed,6.75,9,11,0.8,0.5,0,0
+TASK0029,Task description 29,2025-06-21,Medium,Eva,10,On-time,Research,Pending,4.8,24,13,0.8,0.8,0,0
+TASK0030,Task description 30,2025-06-05,Medium,Bob,10,On-time,Development,Pending,5.42,8,12,0.8,0.9,0,0
+TASK0031,Task description 31,2025-06-11,Medium,Alice,6,Unreliable,Documentation,In Progress,4.8,14,9,0.3,0.5,0,0
+TASK0032,Task description 32,2025-06-11,High,Charlie,10,Delayed,Documentation,Pending,9.7,14,10,0.5,0.5,0,0
+TASK0033,Task description 33,2025-05-31,Medium,Eva,5,Perfect,Design,Completed,5.97,3,8,1.0,0.6,0,0
+TASK0034,Task description 34,2025-06-17,High,Alice,10,Perfect,Development,In Progress,3.88,20,11,1.0,0.9,1,0
+TASK0035,Task description 35,2025-06-06,High,Bob,1,On-time,Design,Pending,7.65,9,4,0.8,0.6,0,1
+TASK0036,Task description 36,2025-06-23,Medium,David,6,Delayed,Testing,Pending,3.56,26,7,0.5,0.7,0,1
+TASK0037,Task description 37,2025-06-01,Low,Eva,10,Delayed,Development,Completed,6.42,4,13,0.5,0.9,0,0
+TASK0038,Task description 38,2025-06-12,High,Alice,2,On-time,Design,Completed,2.08,15,3,0.8,0.6,0,1
+TASK0039,Task description 39,2025-06-05,High,David,10,Delayed,Testing,In Progress,3.34,8,10,0.5,0.7,0,0
+TASK0040,Task description 40,2025-06-15,High,Eva,6,On-time,Documentation,Pending,6.39,18,7,0.8,0.5,1,1
+TASK0041,Task description 41,2025-06-22,Medium,Eva,9,Perfect,Documentation,In Progress,7.48,25,10,1.0,0.5,1,0
+TASK0042,Task description 42,2025-05-30,Low,Eva,8,Delayed,Design,In Progress,6.34,2,10,0.5,0.6,0,0
+TASK0043,Task description 43,2025-06-07,High,David,4,Delayed,Documentation,Completed,5.77,10,6,0.5,0.5,0,1
+TASK0044,Task description 44,2025-06-08,High,Eva,1,On-time,Development,Pending,5.4,11,4,0.8,0.9,0,1
+TASK0045,Task description 45,2025-06-06,Medium,Bob,8,Perfect,Testing,Completed,3.04,9,11,1.0,0.7,1,0
+TASK0046,Task description 46,2025-06-19,Medium,Charlie,1,Unreliable,Design,Completed,4.56,22,1,0.3,0.6,1,1
+TASK0047,Task description 47,2025-06-15,Medium,Eva,1,Delayed,Design,In Progress,5.08,18,3,0.5,0.6,0,1
+TASK0048,Task description 48,2025-06-04,Medium,Bob,2,Delayed,Testing,Completed,8.11,7,5,0.5,0.7,1,1
+TASK0049,Task description 49,2025-06-10,High,Eva,7,On-time,Development,In Progress,6.69,13,8,0.8,0.9,0,0
+TASK0050,Task description 50,2025-06-14,Medium,Charlie,9,Delayed,Testing,Completed,2.47,17,9,0.5,0.7,0,0
+TASK0051,Task description 51,2025-05-31,Medium,David,1,Delayed,Research,Completed,6.65,3,2,0.5,0.8,1,1
+TASK0052,Task description 52,2025-06-16,Medium,Alice,3,Delayed,Research,In Progress,5.23,19,3,0.5,0.8,0,1
+TASK0053,Task description 53,2025-06-13,High,Eva,3,On-time,Design,Pending,4.65,16,6,0.8,0.6,0,1
+TASK0054,Task description 54,2025-06-08,High,Bob,7,On-time,Design,Pending,7.22,11,9,0.8,0.6,0,0
+TASK0055,Task description 55,2025-05-29,Medium,Alice,10,On-time,Documentation,In Progress,8.06,1,10,0.8,0.5,0,0
+TASK0056,Task description 56,2025-06-17,Low,Eva,3,Delayed,Development,Pending,7.86,20,5,0.5,0.9,0,1
+TASK0057,Task description 57,2025-06-06,Medium,David,3,Perfect,Development,Completed,4.32,9,5,1.0,0.9,0,1
+TASK0058,Task description 58,2025-06-12,High,Charlie,6,Delayed,Testing,Completed,5.38,15,7,0.5,0.7,0,1
+TASK0059,Task description 59,2025-06-24,Low,Alice,7,Unreliable,Research,Pending,6.66,27,9,0.3,0.8,0,0
+TASK0060,Task description 60,2025-06-09,Medium,Alice,10,On-time,Testing,Completed,7.95,12,11,0.8,0.7,0,0
+TASK0061,Task description 61,2025-06-23,Low,Alice,8,Perfect,Research,In Progress,5.04,26,11,1.0,0.8,0,0
+TASK0062,Task description 62,2025-06-10,Medium,Charlie,7,Delayed,Design,Pending,5.63,13,7,0.5,0.6,1,1
+TASK0063,Task description 63,2025-06-03,High,Eva,10,On-time,Design,In Progress,3.79,6,13,0.8,0.6,0,0
+TASK0064,Task description 64,2025-06-21,High,Alice,5,On-time,Design,In Progress,3.61,24,6,0.8,0.6,0,1
+TASK0065,Task description 65,2025-06-18,High,Alice,9,Perfect,Research,Pending,7.63,21,10,1.0,0.8,0,0
+TASK0066,Task description 66,2025-06-18,Low,Alice,9,On-time,Testing,In Progress,8.71,21,10,0.8,0.7,0,0
+TASK0067,Task description 67,2025-06-01,High,Bob,3,Perfect,Research,In Progress,5.86,4,4,1.0,0.8,0,1
+TASK0068,Task description 68,2025-05-30,Medium,Charlie,4,Perfect,Development,Completed,8.01,2,7,1.0,0.9,0,1
+TASK0069,Task description 69,2025-06-25,Medium,Bob,6,Perfect,Testing,Pending,6.72,28,9,1.0,0.7,1,0
+TASK0070,Task description 70,2025-06-24,Medium,Charlie,8,Delayed,Documentation,Pending,4.71,27,10,0.5,0.5,0,0
+TASK0071,Task description 71,2025-06-20,Low,Charlie,4,On-time,Testing,Pending,6.72,23,7,0.8,0.7,0,1
+TASK0072,Task description 72,2025-06-05,High,Bob,1,Delayed,Testing,Completed,9.08,8,1,0.5,0.7,1,1
+TASK0073,Task description 73,2025-06-08,Medium,Eva,5,On-time,Documentation,In Progress,5.93,11,8,0.8,0.5,1,0
+TASK0074,Task description 74,2025-06-23,Low,David,3,Delayed,Research,In Progress,9.13,26,6,0.5,0.8,1,1
+TASK0075,Task description 75,2025-06-16,Low,Eva,7,Unreliable,Design,In Progress,1.0,19,7,0.3,0.6,0,1
+TASK0076,Task description 76,2025-06-06,High,Bob,8,Delayed,Documentation,Completed,7.64,9,11,0.5,0.5,0,0
+TASK0077,Task description 77,2025-06-18,High,Charlie,5,On-time,Research,Completed,6.17,21,6,0.8,0.8,0,1
+TASK0078,Task description 78,2025-06-24,Low,Bob,5,On-time,Research,Completed,5.4,27,8,0.8,0.8,0,0
+TASK0079,Task description 79,2025-06-01,Medium,Alice,7,On-time,Design,Pending,6.18,4,7,0.8,0.6,0,1
+TASK0080,Task description 80,2025-06-08,High,Alice,2,Perfect,Research,Completed,2.02,11,5,1.0,0.8,0,1
+TASK0081,Task description 81,2025-06-14,Medium,Charlie,8,Delayed,Documentation,In Progress,5.56,17,10,0.5,0.5,0,0
+TASK0082,Task description 82,2025-05-31,Medium,Alice,6,Unreliable,Research,Pending,6.71,3,6,0.3,0.8,0,1
+TASK0083,Task description 83,2025-06-13,Medium,Eva,2,On-time,Testing,Pending,8.96,16,5,0.8,0.7,0,1
+TASK0084,Task description 84,2025-06-19,Low,Charlie,5,Perfect,Design,In Progress,4.96,22,5,1.0,0.6,1,1
+TASK0085,Task description 85,2025-05-29,High,Charlie,3,Delayed,Documentation,Pending,4.38,1,5,0.5,0.5,0,1
+TASK0086,Task description 86,2025-06-04,Medium,David,9,Perfect,Design,In Progress,5.0,7,12,1.0,0.6,0,0
+TASK0087,Task description 87,2025-05-28,Medium,Alice,7,On-time,Testing,Completed,7.83,0,7,0.8,0.7,0,1
+TASK0088,Task description 88,2025-06-26,Medium,Alice,7,On-time,Testing,Completed,6.66,29,10,0.8,0.7,0,0
+TASK0089,Task description 89,2025-06-02,High,Alice,4,Perfect,Design,In Progress,4.94,5,4,1.0,0.6,0,1
+TASK0090,Task description 90,2025-06-07,Low,Charlie,8,Delayed,Design,In Progress,7.03,10,9,0.5,0.6,1,0
+TASK0091,Task description 91,2025-05-30,Low,David,3,Perfect,Documentation,Completed,6.19,2,3,1.0,0.5,0,1
+TASK0092,Task description 92,2025-06-26,High,Alice,4,Perfect,Research,Completed,7.94,29,6,1.0,0.8,0,1
+TASK0093,Task description 93,2025-06-12,High,Bob,6,Perfect,Development,In Progress,4.6,15,9,1.0,0.9,0,0
+TASK0094,Task description 94,2025-06-17,Low,David,5,Perfect,Design,Completed,5.34,20,6,1.0,0.6,0,1
+TASK0095,Task description 95,2025-06-05,Medium,Eva,10,On-time,Development,Completed,5.22,8,11,0.8,0.9,0,0
+TASK0096,Task description 96,2025-06-14,High,David,6,On-time,Research,Completed,3.07,17,8,0.8,0.8,1,0
+TASK0097,Task description 97,2025-06-08,Low,Charlie,6,Unreliable,Design,Pending,6.59,11,9,0.3,0.6,1,0
+TASK0098,Task description 98,2025-06-06,Medium,David,3,Delayed,Documentation,In Progress,6.52,9,3,0.5,0.5,0,1
+TASK0099,Task description 99,2025-06-14,Medium,Alice,3,On-time,Documentation,In Progress,6.01,17,3,0.8,0.5,0,1
+TASK0100,Task description 100,2025-06-06,Low,David,1,On-time,Design,In Progress,5.53,9,4,0.8,0.6,0,1
+TASK0101,Task description 101,2025-05-30,Medium,Eva,5,Perfect,Research,Pending,3.17,2,6,1.0,0.8,0,1
+TASK0102,Task description 102,2025-06-18,High,Charlie,6,On-time,Testing,In Progress,5.16,21,8,0.8,0.7,0,0
+TASK0103,Task description 103,2025-06-25,High,David,8,On-time,Research,Completed,5.31,28,8,0.8,0.8,1,0
+TASK0104,Task description 104,2025-06-07,Medium,Alice,9,Perfect,Research,Pending,4.4,10,9,1.0,0.8,0,0
+TASK0105,Task description 105,2025-06-23,Low,Charlie,7,Perfect,Testing,Pending,5.68,26,7,1.0,0.7,0,1
+TASK0106,Task description 106,2025-06-17,High,Charlie,8,Perfect,Documentation,Pending,6.81,20,8,1.0,0.5,0,0
+TASK0107,Task description 107,2025-06-09,Medium,Charlie,5,On-time,Development,Pending,9.77,12,7,0.8,0.9,0,1
+TASK0108,Task description 108,2025-06-18,Medium,Charlie,2,Delayed,Documentation,Completed,6.35,21,2,0.5,0.5,0,1
+TASK0109,Task description 109,2025-06-09,High,Bob,5,On-time,Documentation,Completed,6.52,12,5,0.8,0.5,0,1
+TASK0110,Task description 110,2025-06-13,High,Alice,7,Perfect,Research,In Progress,5.85,16,7,1.0,0.8,0,1
+TASK0111,Task description 111,2025-06-25,Medium,Alice,6,On-time,Design,In Progress,2.16,28,9,0.8,0.6,0,0
+TASK0112,Task description 112,2025-06-10,Low,Alice,5,On-time,Research,Completed,5.95,13,7,0.8,0.8,0,1
+TASK0113,Task description 113,2025-06-01,High,Charlie,9,Unreliable,Documentation,In Progress,6.12,4,10,0.3,0.5,0,0
+TASK0114,Task description 114,2025-06-06,Medium,David,8,Unreliable,Testing,Completed,10.93,9,10,0.3,0.7,0,0
+TASK0115,Task description 115,2025-06-13,High,David,7,Perfect,Research,In Progress,5.62,16,7,1.0,0.8,1,1
+TASK0116,Task description 116,2025-06-12,Low,Charlie,10,Delayed,Testing,In Progress,6.6,15,13,0.5,0.7,0,0
+TASK0117,Task description 117,2025-06-08,High,David,2,Perfect,Research,Pending,5.93,11,2,1.0,0.8,1,1
+TASK0118,Task description 118,2025-06-16,Medium,Alice,1,Delayed,Testing,In Progress,3.66,19,3,0.5,0.7,0,1
+TASK0119,Task description 119,2025-06-25,Medium,Bob,10,On-time,Documentation,Completed,8.29,28,13,0.8,0.5,0,0
+TASK0120,Task description 120,2025-06-11,Medium,Charlie,2,Perfect,Design,Pending,7.5,14,5,1.0,0.6,1,1
+TASK0121,Task description 121,2025-06-18,Low,David,4,On-time,Development,Completed,7.58,21,7,0.8,0.9,0,1
+TASK0122,Task description 122,2025-06-23,High,Charlie,2,On-time,Development,In Progress,4.18,26,3,0.8,0.9,0,1
+TASK0123,Task description 123,2025-06-23,High,Eva,7,On-time,Development,Pending,8.81,26,10,0.8,0.9,0,0
+TASK0124,Task description 124,2025-05-28,Low,David,1,Perfect,Documentation,Pending,3.2,0,1,1.0,0.5,0,1
+TASK0125,Task description 125,2025-06-12,Low,Bob,1,On-time,Documentation,In Progress,7.17,15,2,0.8,0.5,0,1
+TASK0126,Task description 126,2025-06-02,Medium,Charlie,6,Delayed,Testing,In Progress,10.38,5,8,0.5,0.7,0,0
+TASK0127,Task description 127,2025-06-26,Medium,David,10,On-time,Documentation,Completed,4.02,29,12,0.8,0.5,0,0
+TASK0128,Task description 128,2025-06-06,High,Charlie,5,Delayed,Research,Completed,4.87,9,8,0.5,0.8,0,0
+TASK0129,Task description 129,2025-05-31,High,Bob,8,On-time,Documentation,Pending,6.2,3,8,0.8,0.5,0,0
+TASK0130,Task description 130,2025-06-07,Low,Alice,4,Perfect,Development,Pending,4.99,10,6,1.0,0.9,1,1
+TASK0131,Task description 131,2025-06-20,High,David,4,Perfect,Testing,Completed,2.9,23,5,1.0,0.7,0,1
+TASK0132,Task description 132,2025-06-19,High,Eva,7,Perfect,Design,Completed,6.14,22,10,1.0,0.6,0,0
+TASK0133,Task description 133,2025-06-13,Low,Eva,10,On-time,Research,In Progress,3.88,16,11,0.8,0.8,0,0
+TASK0134,Task description 134,2025-06-18,Medium,Bob,7,Perfect,Design,Pending,6.95,21,7,1.0,0.6,0,1
+TASK0135,Task description 135,2025-06-17,Low,Alice,6,On-time,Development,Completed,4.16,20,8,0.8,0.9,1,0
+TASK0136,Task description 136,2025-06-14,Low,David,5,Unreliable,Development,Completed,9.1,17,6,0.3,0.9,0,1
+TASK0137,Task description 137,2025-06-01,High,Eva,1,Delayed,Documentation,Pending,4.43,4,1,0.5,0.5,1,1
+TASK0138,Task description 138,2025-06-09,Low,Charlie,10,On-time,Design,Completed,5.36,12,12,0.8,0.6,1,0
+TASK0139,Task description 139,2025-06-23,Low,Eva,2,On-time,Testing,Pending,7.63,26,5,0.8,0.7,0,1
+TASK0140,Task description 140,2025-06-11,High,Eva,2,Perfect,Development,Pending,3.54,14,4,1.0,0.9,0,1
+TASK0141,Task description 141,2025-05-31,Medium,Alice,9,Perfect,Development,Pending,6.45,3,10,1.0,0.9,1,0
+TASK0142,Task description 142,2025-06-11,High,Bob,4,Delayed,Testing,In Progress,8.61,14,5,0.5,0.7,1,1
+TASK0143,Task description 143,2025-06-25,Medium,David,6,On-time,Research,Completed,2.79,28,8,0.8,0.8,1,0
+TASK0144,Task description 144,2025-06-21,Medium,Alice,3,Delayed,Design,Pending,6.37,24,4,0.5,0.6,0,1
+TASK0145,Task description 145,2025-06-08,Medium,Eva,10,Delayed,Development,In Progress,6.52,11,11,0.5,0.9,0,0
+TASK0146,Task description 146,2025-06-14,Low,Charlie,10,On-time,Research,In Progress,7.56,17,10,0.8,0.8,0,0
+TASK0147,Task description 147,2025-06-11,Low,Eva,3,On-time,Testing,In Progress,3.53,14,6,0.8,0.7,0,1
+TASK0148,Task description 148,2025-05-28,Medium,Bob,3,Perfect,Testing,Pending,3.36,0,6,1.0,0.7,1,1
+TASK0149,Task description 149,2025-06-21,Low,Eva,4,Delayed,Development,Completed,7.04,24,6,0.5,0.9,0,1
+TASK0150,Task description 150,2025-05-31,Medium,Bob,6,Delayed,Development,Pending,6.59,3,8,0.5,0.9,0,0
+TASK0151,Task description 151,2025-06-09,High,David,2,On-time,Design,In Progress,6.5,12,2,0.8,0.6,0,1
+TASK0152,Task description 152,2025-06-24,Medium,Alice,10,Unreliable,Research,Pending,6.69,27,11,0.3,0.8,0,0
+TASK0153,Task description 153,2025-06-22,Medium,David,6,On-time,Design,In Progress,4.64,25,8,0.8,0.6,0,0
+TASK0154,Task description 154,2025-06-15,High,David,3,On-time,Research,Pending,6.46,18,5,0.8,0.8,1,1
+TASK0155,Task description 155,2025-06-22,Medium,Alice,8,Perfect,Design,Completed,6.59,25,9,1.0,0.6,0,0
+TASK0156,Task description 156,2025-05-31,High,Bob,5,On-time,Design,Pending,4.57,3,8,0.8,0.6,0,0
+TASK0157,Task description 157,2025-05-28,High,David,5,On-time,Design,In Progress,9.73,0,6,0.8,0.6,0,1
+TASK0158,Task description 158,2025-05-29,Medium,Alice,10,On-time,Testing,Pending,6.95,1,13,0.8,0.7,0,0
+TASK0159,Task description 159,2025-06-22,Low,Bob,3,On-time,Research,Completed,3.62,25,6,0.8,0.8,0,1
+TASK0160,Task description 160,2025-06-24,Medium,Charlie,1,Perfect,Testing,In Progress,7.31,27,1,1.0,0.7,0,1
+TASK0161,Task description 161,2025-05-28,Medium,Eva,7,Perfect,Research,In Progress,4.05,0,8,1.0,0.8,0,0
+TASK0162,Task description 162,2025-06-04,High,Eva,7,Unreliable,Testing,Completed,7.57,7,10,0.3,0.7,0,0
+TASK0163,Task description 163,2025-05-30,High,Bob,8,Delayed,Testing,In Progress,8.32,2,8,0.5,0.7,1,0
+TASK0164,Task description 164,2025-06-25,Medium,Eva,9,Delayed,Documentation,Completed,4.36,28,11,0.5,0.5,1,0
+TASK0165,Task description 165,2025-06-11,Medium,Alice,9,Perfect,Documentation,Completed,7.93,14,11,1.0,0.5,0,0
+TASK0166,Task description 166,2025-06-23,Medium,Alice,6,On-time,Testing,Completed,6.83,26,8,0.8,0.7,0,0
+TASK0167,Task description 167,2025-06-16,Medium,Charlie,6,Perfect,Design,Completed,7.64,19,7,1.0,0.6,1,1
+TASK0168,Task description 168,2025-05-31,Medium,Alice,4,Unreliable,Testing,In Progress,9.79,3,7,0.3,0.7,0,1
+TASK0169,Task description 169,2025-05-28,Medium,Bob,10,Delayed,Development,Pending,5.51,0,11,0.5,0.9,0,0
+TASK0170,Task description 170,2025-05-30,Medium,David,3,On-time,Development,In Progress,4.49,2,5,0.8,0.9,0,1
+TASK0171,Task description 171,2025-06-24,Low,Bob,9,Perfect,Testing,Completed,4.22,27,11,1.0,0.7,1,0
+TASK0172,Task description 172,2025-06-05,Medium,Charlie,9,On-time,Testing,Pending,4.37,8,9,0.8,0.7,0,0
+TASK0173,Task description 173,2025-06-02,Medium,Bob,1,Delayed,Development,Completed,5.85,5,4,0.5,0.9,0,1
+TASK0174,Task description 174,2025-06-09,Medium,Bob,9,Perfect,Documentation,In Progress,6.68,12,10,1.0,0.5,0,0
+TASK0175,Task description 175,2025-06-20,High,David,9,On-time,Research,In Progress,6.55,23,12,0.8,0.8,1,0
+TASK0176,Task description 176,2025-06-05,Medium,Eva,9,On-time,Research,In Progress,7.65,8,12,0.8,0.8,0,0
+TASK0177,Task description 177,2025-05-29,Medium,Alice,2,On-time,Research,Completed,6.03,1,2,0.8,0.8,0,1
+TASK0178,Task description 178,2025-06-19,Medium,Eva,5,On-time,Documentation,In Progress,8.91,22,7,0.8,0.5,1,1
+TASK0179,Task description 179,2025-06-03,High,Alice,6,On-time,Research,Completed,5.47,6,8,0.8,0.8,0,0
+TASK0180,Task description 180,2025-06-25,Medium,Alice,10,Delayed,Research,Completed,11.44,28,10,0.5,0.8,0,0
+TASK0181,Task description 181,2025-06-25,Low,Eva,2,On-time,Research,Pending,7.25,28,3,0.8,0.8,0,1
+TASK0182,Task description 182,2025-05-28,Medium,Alice,10,Delayed,Documentation,Completed,4.29,0,11,0.5,0.5,0,0
+TASK0183,Task description 183,2025-05-31,High,Eva,1,Delayed,Testing,Completed,3.86,3,1,0.5,0.7,0,1
+TASK0184,Task description 184,2025-06-24,High,Eva,6,On-time,Research,In Progress,6.96,27,8,0.8,0.8,0,0
+TASK0185,Task description 185,2025-05-30,Medium,Alice,5,On-time,Documentation,Completed,5.55,2,6,0.8,0.5,0,1
+TASK0186,Task description 186,2025-06-11,Low,Bob,4,On-time,Development,In Progress,7.43,14,6,0.8,0.9,0,1
+TASK0187,Task description 187,2025-06-18,High,Bob,7,On-time,Research,Completed,6.95,21,7,0.8,0.8,0,1
+TASK0188,Task description 188,2025-06-10,High,David,6,Perfect,Design,Pending,5.85,13,9,1.0,0.6,0,0
+TASK0189,Task description 189,2025-05-30,Medium,Bob,8,On-time,Documentation,Completed,4.31,2,9,0.8,0.5,0,0
+TASK0190,Task description 190,2025-06-25,High,David,1,On-time,Documentation,In Progress,2.97,28,3,0.8,0.5,0,1
+TASK0191,Task description 191,2025-06-07,High,Alice,7,Perfect,Documentation,Pending,5.11,10,7,1.0,0.5,0,1
+TASK0192,Task description 192,2025-06-26,High,Eva,9,Perfect,Research,Pending,7.71,29,12,1.0,0.8,0,0
+TASK0193,Task description 193,2025-06-17,Medium,Eva,1,Delayed,Development,Pending,6.43,20,3,0.5,0.9,0,1
+TASK0194,Task description 194,2025-06-03,High,David,1,On-time,Design,In Progress,3.51,6,2,0.8,0.6,0,1
+TASK0195,Task description 195,2025-06-15,High,David,4,On-time,Design,Completed,6.35,18,4,0.8,0.6,0,1
+TASK0196,Task description 196,2025-06-08,Low,Charlie,3,Perfect,Testing,In Progress,6.77,11,4,1.0,0.7,0,1
+TASK0197,Task description 197,2025-06-16,Medium,Charlie,9,On-time,Design,In Progress,4.23,19,11,0.8,0.6,1,0
+TASK0198,Task description 198,2025-06-09,Medium,Alice,2,On-time,Design,Completed,6.31,12,3,0.8,0.6,0,1
+TASK0199,Task description 199,2025-06-10,Medium,Eva,1,Perfect,Research,Completed,6.12,13,1,1.0,0.8,0,1
+TASK0200,Task description 200,2025-06-05,High,Alice,9,Delayed,Design,Completed,3.71,8,12,0.5,0.6,0,0
+TASK0201,Task description 201,2025-06-05,Medium,Charlie,7,On-time,Development,Pending,6.72,8,7,0.8,0.9,0,1
+TASK0202,Task description 202,2025-06-26,High,David,9,Delayed,Design,Completed,7.12,29,11,0.5,0.6,0,0
+TASK0203,Task description 203,2025-06-11,High,Alice,8,On-time,Design,In Progress,8.17,14,8,0.8,0.6,0,0
+TASK0204,Task description 204,2025-06-07,High,David,7,Perfect,Design,In Progress,8.11,10,8,1.0,0.6,0,0
+TASK0205,Task description 205,2025-06-18,High,Alice,6,Delayed,Design,In Progress,3.24,21,6,0.5,0.6,0,1
+TASK0206,Task description 206,2025-06-13,Medium,Eva,6,On-time,Design,Pending,4.12,16,6,0.8,0.6,0,1
+TASK0207,Task description 207,2025-06-17,Low,Eva,8,Perfect,Documentation,In Progress,7.03,20,10,1.0,0.5,1,0
+TASK0208,Task description 208,2025-06-15,High,David,6,On-time,Documentation,Completed,7.03,18,8,0.8,0.5,0,0
+TASK0209,Task description 209,2025-06-16,High,Alice,5,On-time,Documentation,In Progress,7.03,19,5,0.8,0.5,0,1
+TASK0210,Task description 210,2025-06-23,Medium,Bob,8,On-time,Design,Completed,13.71,26,9,0.8,0.6,0,0
+TASK0211,Task description 211,2025-06-13,Medium,Charlie,4,Unreliable,Documentation,Pending,7.14,16,4,0.3,0.5,0,1
+TASK0212,Task description 212,2025-06-21,Medium,Charlie,3,On-time,Documentation,In Progress,8.27,24,3,0.8,0.5,0,1
+TASK0213,Task description 213,2025-06-19,Medium,Bob,3,On-time,Documentation,In Progress,7.91,22,6,0.8,0.5,0,1
+TASK0214,Task description 214,2025-06-02,High,Eva,4,On-time,Testing,In Progress,7.3,5,5,0.8,0.7,0,1
+TASK0215,Task description 215,2025-06-14,Medium,Charlie,6,Delayed,Documentation,Pending,5.37,17,7,0.5,0.5,0,1
+TASK0216,Task description 216,2025-05-28,Medium,Bob,3,On-time,Documentation,Pending,7.52,0,6,0.8,0.5,0,1
+TASK0217,Task description 217,2025-06-20,Medium,Charlie,7,Perfect,Development,Completed,4.45,23,7,1.0,0.9,0,1
+TASK0218,Task description 218,2025-06-17,Low,Eva,2,Perfect,Design,Completed,5.53,20,3,1.0,0.6,0,1
+TASK0219,Task description 219,2025-06-20,Medium,Eva,9,Perfect,Design,In Progress,5.03,23,12,1.0,0.6,0,0
+TASK0220,Task description 220,2025-06-07,Medium,Alice,2,Perfect,Documentation,In Progress,6.16,10,4,1.0,0.5,0,1
+TASK0221,Task description 221,2025-06-26,Medium,Charlie,5,Delayed,Design,Pending,10.63,29,6,0.5,0.6,1,1
+TASK0222,Task description 222,2025-06-20,High,Alice,4,Perfect,Testing,Pending,2.27,23,7,1.0,0.7,0,1
+TASK0223,Task description 223,2025-06-11,High,Bob,6,On-time,Documentation,Pending,7.37,14,6,0.8,0.5,0,1
+TASK0224,Task description 224,2025-06-19,Medium,Bob,9,On-time,Research,Pending,2.77,22,12,0.8,0.8,0,0
+TASK0225,Task description 225,2025-06-18,Low,Bob,8,Perfect,Testing,In Progress,5.06,21,11,1.0,0.7,1,0
+TASK0226,Task description 226,2025-06-03,Medium,Charlie,8,Unreliable,Design,Pending,8.18,6,11,0.3,0.6,1,0
+TASK0227,Task description 227,2025-06-18,High,Charlie,5,On-time,Design,Pending,6.13,21,8,0.8,0.6,1,0
+TASK0228,Task description 228,2025-06-01,Low,Alice,2,Perfect,Research,In Progress,3.84,4,2,1.0,0.8,0,1
+TASK0229,Task description 229,2025-06-13,High,Eva,9,Perfect,Testing,Completed,4.57,16,12,1.0,0.7,0,0
+TASK0230,Task description 230,2025-06-10,High,Alice,9,On-time,Research,In Progress,7.36,13,10,0.8,0.8,0,0
+TASK0231,Task description 231,2025-06-03,High,Bob,8,Perfect,Design,In Progress,4.54,6,10,1.0,0.6,0,0
+TASK0232,Task description 232,2025-06-09,Low,David,1,Perfect,Research,In Progress,6.43,12,1,1.0,0.8,1,1
+TASK0233,Task description 233,2025-06-23,Medium,David,8,On-time,Development,Pending,6.09,26,10,0.8,0.9,0,0
+TASK0234,Task description 234,2025-06-05,Medium,Bob,1,On-time,Documentation,Pending,4.7,8,4,0.8,0.5,0,1
+TASK0235,Task description 235,2025-06-01,High,Alice,1,Perfect,Research,Pending,10.29,4,3,1.0,0.8,0,1
+TASK0236,Task description 236,2025-05-31,High,Bob,1,On-time,Testing,Pending,7.27,3,2,0.8,0.7,1,1
+TASK0237,Task description 237,2025-06-09,Medium,Charlie,6,On-time,Research,In Progress,1.95,12,8,0.8,0.8,0,0
+TASK0238,Task description 238,2025-06-02,High,Charlie,7,Perfect,Research,In Progress,6.37,5,10,1.0,0.8,0,0
+TASK0239,Task description 239,2025-06-26,High,Eva,3,On-time,Testing,Pending,4.68,29,5,0.8,0.7,0,1
+TASK0240,Task description 240,2025-06-07,Medium,Eva,3,Delayed,Documentation,Completed,7.7,10,5,0.5,0.5,1,1
+TASK0241,Task description 241,2025-06-02,Low,David,4,Perfect,Design,In Progress,4.41,5,6,1.0,0.6,0,1
+TASK0242,Task description 242,2025-05-28,High,Eva,1,On-time,Research,Completed,5.77,0,3,0.8,0.8,0,1
+TASK0243,Task description 243,2025-06-14,Low,Eva,1,Perfect,Testing,Completed,7.01,17,4,1.0,0.7,0,1
+TASK0244,Task description 244,2025-06-11,Medium,David,3,Perfect,Testing,In Progress,7.73,14,4,1.0,0.7,0,1
+TASK0245,Task description 245,2025-06-24,High,Charlie,7,Perfect,Research,Pending,3.6,27,10,1.0,0.8,0,0
+TASK0246,Task description 246,2025-06-25,Low,Eva,5,Delayed,Development,Pending,5.33,28,5,0.5,0.9,0,1
+TASK0247,Task description 247,2025-06-21,Low,Charlie,1,Delayed,Testing,In Progress,5.05,24,4,0.5,0.7,0,1
+TASK0248,Task description 248,2025-06-22,Medium,Bob,8,Unreliable,Research,Pending,4.69,25,10,0.3,0.8,0,0
+TASK0249,Task description 249,2025-06-22,Medium,Alice,8,Unreliable,Research,In Progress,9.53,25,9,0.3,0.8,0,0
+TASK0250,Task description 250,2025-05-29,High,Eva,3,On-time,Design,In Progress,6.81,1,5,0.8,0.6,0,1
+TASK0251,Task description 251,2025-06-10,Low,Charlie,10,Perfect,Testing,In Progress,3.48,13,13,1.0,0.7,0,0
+TASK0252,Task description 252,2025-06-15,Medium,Eva,6,Perfect,Design,Completed,7.84,18,8,1.0,0.6,0,0
+TASK0253,Task description 253,2025-06-06,Medium,Alice,10,Perfect,Testing,In Progress,10.24,9,10,1.0,0.7,0,0
+TASK0254,Task description 254,2025-05-28,Medium,Bob,4,On-time,Documentation,Pending,8.06,0,7,0.8,0.5,0,1
+TASK0255,Task description 255,2025-06-20,Medium,Alice,9,Perfect,Research,Completed,2.96,23,9,1.0,0.8,0,0
+TASK0256,Task description 256,2025-06-10,Low,Alice,3,On-time,Documentation,In Progress,5.03,13,5,0.8,0.5,0,1
+TASK0257,Task description 257,2025-06-17,Medium,Charlie,1,Delayed,Testing,Pending,8.53,20,4,0.5,0.7,0,1
+TASK0258,Task description 258,2025-06-19,Medium,David,5,Unreliable,Documentation,Pending,4.58,22,8,0.3,0.5,0,0
+TASK0259,Task description 259,2025-06-03,Medium,Eva,10,On-time,Development,Completed,6.89,6,12,0.8,0.9,0,0
+TASK0260,Task description 260,2025-05-28,Low,Charlie,10,Delayed,Development,Pending,7.55,0,12,0.5,0.9,0,0
+TASK0261,Task description 261,2025-05-30,Low,Bob,2,Unreliable,Research,Completed,4.15,2,5,0.3,0.8,0,1
+TASK0262,Task description 262,2025-06-09,Medium,Bob,10,On-time,Design,Pending,5.88,12,12,0.8,0.6,0,0
+TASK0263,Task description 263,2025-06-12,Medium,Eva,2,On-time,Development,In Progress,1.0,15,3,0.8,0.9,0,1
+TASK0264,Task description 264,2025-06-08,Low,Bob,3,On-time,Design,Pending,3.95,11,5,0.8,0.6,0,1
+TASK0265,Task description 265,2025-06-10,Medium,David,8,Perfect,Development,Pending,5.49,13,9,1.0,0.9,0,0
+TASK0266,Task description 266,2025-06-17,Low,Alice,5,Unreliable,Development,In Progress,3.5,20,6,0.3,0.9,1,1
+TASK0267,Task description 267,2025-06-14,Medium,Charlie,5,Perfect,Development,In Progress,9.26,17,7,1.0,0.9,0,1
+TASK0268,Task description 268,2025-06-14,High,Alice,1,On-time,Development,Pending,3.14,17,3,0.8,0.9,1,1
+TASK0269,Task description 269,2025-06-02,Low,Bob,1,Perfect,Design,In Progress,5.12,5,2,1.0,0.6,0,1
+TASK0270,Task description 270,2025-06-19,Medium,Alice,7,On-time,Documentation,In Progress,6.26,22,9,0.8,0.5,0,0
+TASK0271,Task description 271,2025-05-28,Medium,David,6,On-time,Documentation,In Progress,8.88,0,7,0.8,0.5,0,1
+TASK0272,Task description 272,2025-06-25,High,Charlie,8,Perfect,Development,In Progress,3.13,28,8,1.0,0.9,0,0
+TASK0273,Task description 273,2025-06-03,Medium,Eva,2,Perfect,Documentation,Completed,8.33,6,2,1.0,0.5,1,1
+TASK0274,Task description 274,2025-06-08,Medium,Bob,7,Delayed,Testing,In Progress,6.02,11,8,0.5,0.7,1,0
+TASK0275,Task description 275,2025-06-19,Medium,David,4,Perfect,Testing,Pending,4.04,22,4,1.0,0.7,0,1
+TASK0276,Task description 276,2025-05-31,High,Bob,2,Delayed,Development,Completed,6.92,3,3,0.5,0.9,0,1
+TASK0277,Task description 277,2025-06-04,High,Eva,6,On-time,Testing,Pending,6.4,7,7,0.8,0.7,0,1
+TASK0278,Task description 278,2025-06-23,Low,Charlie,4,On-time,Development,In Progress,4.8,26,7,0.8,0.9,0,1
+TASK0279,Task description 279,2025-06-07,Medium,Alice,7,On-time,Research,Pending,6.14,10,9,0.8,0.8,0,0
+TASK0280,Task description 280,2025-05-28,Medium,Alice,1,On-time,Testing,In Progress,5.23,0,3,0.8,0.7,0,1
+TASK0281,Task description 281,2025-06-06,Low,Bob,10,Delayed,Research,In Progress,6.23,9,10,0.5,0.8,0,0
+TASK0282,Task description 282,2025-06-18,High,Alice,5,On-time,Testing,Completed,7.32,21,8,0.8,0.7,0,0
+TASK0283,Task description 283,2025-05-28,Medium,Charlie,3,Unreliable,Design,Pending,9.17,0,5,0.3,0.6,1,1
+TASK0284,Task description 284,2025-06-10,Medium,David,2,Perfect,Testing,In Progress,3.52,13,2,1.0,0.7,0,1
+TASK0285,Task description 285,2025-06-22,Medium,Charlie,7,Perfect,Documentation,Pending,10.27,25,7,1.0,0.5,0,1
+TASK0286,Task description 286,2025-06-21,High,Bob,4,Delayed,Research,In Progress,2.1,24,7,0.5,0.8,0,1
+TASK0287,Task description 287,2025-06-20,Medium,Alice,9,Delayed,Design,Pending,5.7,23,12,0.5,0.6,0,0
+TASK0288,Task description 288,2025-06-04,Medium,Alice,3,Unreliable,Testing,In Progress,7.18,7,3,0.3,0.7,0,1
+TASK0289,Task description 289,2025-06-11,Medium,Alice,2,Delayed,Development,In Progress,6.56,14,4,0.5,0.9,1,1
+TASK0290,Task description 290,2025-06-21,Medium,David,4,On-time,Testing,Pending,4.75,24,4,0.8,0.7,0,1
+TASK0291,Task description 291,2025-06-06,Medium,Eva,10,On-time,Design,In Progress,5.58,9,13,0.8,0.6,0,0
+TASK0292,Task description 292,2025-06-05,High,Bob,2,On-time,Research,In Progress,5.01,8,3,0.8,0.8,0,1
+TASK0293,Task description 293,2025-06-22,Medium,Bob,2,On-time,Development,Completed,4.82,25,2,0.8,0.9,0,1
+TASK0294,Task description 294,2025-06-01,High,Eva,6,Perfect,Research,Completed,7.7,4,7,1.0,0.8,0,1
+TASK0295,Task description 295,2025-06-14,Medium,Eva,3,On-time,Testing,Pending,6.71,17,5,0.8,0.7,0,1
+TASK0296,Task description 296,2025-06-03,Medium,Charlie,5,On-time,Design,Pending,4.61,6,6,0.8,0.6,1,1
+TASK0297,Task description 297,2025-06-06,Medium,David,3,Delayed,Development,Completed,7.8,9,4,0.5,0.9,0,1
+TASK0298,Task description 298,2025-06-13,Medium,David,9,Perfect,Research,Pending,6.61,16,11,1.0,0.8,1,0
+TASK0299,Task description 299,2025-06-14,Medium,Charlie,10,On-time,Testing,In Progress,7.63,17,12,0.8,0.7,0,0
+TASK0300,Task description 300,2025-06-18,Medium,David,4,Delayed,Design,In Progress,7.26,21,5,0.5,0.6,0,1
